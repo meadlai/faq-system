@@ -1,0 +1,15 @@
+langchain-community
+langchain-openai
+pypdf
+docx2txt
+qdrant-client
+extract_msg
+unstructured
+python-magic
+chromadb
+python-dotenv~=1.0.0
+faiss-cpu
+tiktoken
+flask
+markupsafe
+blackduck
